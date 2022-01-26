@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(255, 212, 155);
+}
+
+h1{
+    font-weight: bold;
+    color: rgb(107, 39, 0);
+    text-align: center;
+}
+
+p{
+    color: brown;
+}
+
+ul.plato{
+    list-style-type: circle;
+    color: brown;
+}
+
+ol.roman{
+    list-style-type: upper-roman;
+}
+
+ol.segundo{
+    list-style-type: lower-latin;
+}
+
+h3{
+    color: brown;
+}
